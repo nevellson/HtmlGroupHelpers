@@ -1,5 +1,5 @@
 <h1>asp.net mvc Html Group Helpers For bootstrap</h1>
-BETA v1.0
+BETA v1.0<br/>
 For less html code
 <p>
   When developing an html project  we usually use same tags <strong> especially on  inputs.</strong> 
@@ -59,6 +59,7 @@ DefaultTemplate
 <li>@Html.CheckBoxGroupFor(x => x.BooleanExampleProperty)</li>
 <li>@Html.TextGroupFor(x => x.ExampleProperty)</li>
 <li>@Html.DropDownGroupFor(x=>x.SelectExample,"viewDataName")</li>
+<li>New Helpers will be added.</li>
 </ul>
 This helpers  include all  override methods.<br/>
 Also in the method of DropDownGroupFor, there are overrides which include viewDataName ,instead of  IEnumerable SelecListItem.
