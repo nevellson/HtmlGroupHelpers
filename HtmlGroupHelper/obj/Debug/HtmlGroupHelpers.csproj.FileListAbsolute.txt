@@ -1,0 +1,5 @@
+E:\Projects\HtmlGroupHelper\HtmlGroupHelper\obj\Debug\HtmlGroupHelpers.csprojResolveAssemblyReference.cache
+E:\Projects\HtmlGroupHelper\HtmlGroupHelper\bin\Debug\HtmlGroupHelper.dll
+E:\Projects\HtmlGroupHelper\HtmlGroupHelper\bin\Debug\HtmlGroupHelper.pdb
+E:\Projects\HtmlGroupHelper\HtmlGroupHelper\obj\Debug\HtmlGroupHelper.dll
+E:\Projects\HtmlGroupHelper\HtmlGroupHelper\obj\Debug\HtmlGroupHelper.pdb
