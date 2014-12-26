@@ -54,6 +54,12 @@ DefaultTemplate
 
 </p>
 
-
-
+<h2>Helpers</h2>
+<ul>
+<li>@Html.CheckBoxGroupFor(x => x.BooleanExampleProperty)</li>
+<li>@Html.TextGroupFor(x => x.ExampleProperty)</li>
+<li>@Html.DropDownGroupFor(x=>x.SelectExample,"viewDataName")</li>
+</ul>
+This helpers  include all  override methods.<br/>
+Also in the method of DropDownGroupFor, there are overrides which include viewDataName ,instead of  IEnumerable SelecListItem.
 
