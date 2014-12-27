@@ -3,7 +3,7 @@ BETA v1.0<br/>
 For less html code
 <p>
   When developing an html project  we usually use same tags <strong> especially on  inputs.</strong> 
- The purpose of the project leaves us to type extra html codes.
+<br/> The purpose of the project leaves us to type extra html codes.
 </p>
 
 <h2>Usage</h2>
