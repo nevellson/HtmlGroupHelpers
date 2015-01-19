@@ -46,7 +46,7 @@ DefaultTemplate
 </tr>
 <td>TextBoxTemplate</td>
 <td>add key="TextBoxTemplate" value="~/Content/Templates/Textbox.txt"</td>
-<td>This will be use for dropdowns. </td>
+<td>This will be use for textboxes. </td>
 <td>No</td>
 </tr>
 </tbody>
