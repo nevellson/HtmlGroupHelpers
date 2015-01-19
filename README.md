@@ -64,4 +64,3 @@ DefaultTemplate
 This helpers  include all  override methods.<br/>
 Also in the method of DropDownGroupFor, there are overrides which include viewDataName ,instead of  IEnumerable SelecListItem.
 
-For Example Project You can download <a href='https://github.com/ierhalim/HtmlGroupHelperExampleProject'> HtmlGroupHelperExampleproject</a>
